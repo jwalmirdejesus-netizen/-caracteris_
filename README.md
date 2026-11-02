@@ -43,5 +43,5 @@ Tudo roda no client-side. Nenhum arquivo sai do seu dispositivo. Ideal para GitH
 
 # Screenshots
 
-![_caracteris_](Screenshot_20260909-144306.jpg)
+![_caracteris_](Screenshot_20261101-203452%7E2.jpg)
 
