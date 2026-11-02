@@ -41,4 +41,5 @@ Playables SDK ready
 Privacidade
 Tudo roda no client-side. Nenhum arquivo sai do seu dispositivo. Ideal para GitHub Pages, Netlify ou uso offline.
 
+# Screenshots
 
